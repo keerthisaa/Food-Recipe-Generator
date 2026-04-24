@@ -4,20 +4,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-* [Overview](#overview)
-* [Features](#features)
-* [How It Works](#how-it-works)
-* [Tech Stack](#tech-stack)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Project Structure](#project-structure)
-* [Model Details](#model-details)
-* [Future Enhancements](#future-enhancements)
-
----
-
 ## 🎯 Overview
 
 The **Food Recipe Generator** is an AI-powered system that takes a food image as input and automatically generates:
